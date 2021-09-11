@@ -6,13 +6,13 @@ Hopefully this is helpful to others.
 
 References I used:
 
-https://github.com/Obi2000/Govee-H6199-Reverse-Engineering
-https://github.com/philhzss/Govee-H6127-Reverse-Engineering
-https://github.com/ddxtanx/GoveeAPI/blob/master/controller.py
-https://github.com/chvolkmann/govee_btled/blob/master/govee_btled/bluetooth_led.py
-https://github.com/oscaracena/pygattlib
-https://github.com/peplin/pygatt/blob/master/pygatt/backends/gatttool/gatttool.py
-https://github.com/mqttblebulb/mqttblebulb/blob/main/mqttblebulb.py
+* https://github.com/Obi2000/Govee-H6199-Reverse-Engineering
+* https://github.com/philhzss/Govee-H6127-Reverse-Engineering
+* https://github.com/ddxtanx/GoveeAPI/blob/master/controller.py
+* https://github.com/chvolkmann/govee_btled/blob/master/govee_btled/bluetooth_led.py
+* https://github.com/oscaracena/pygattlib
+* https://github.com/peplin/pygatt/blob/master/pygatt/backends/gatttool/gatttool.py
+* https://github.com/mqttblebulb/mqttblebulb/blob/main/mqttblebulb.py
 
 Eventhough you are supposed to use bluetoothctl via dBus, using `gatttool` was the most usable and popular solution.
 
