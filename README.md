@@ -14,5 +14,6 @@ https://github.com/oscaracena/pygattlib
 https://github.com/peplin/pygatt/blob/master/pygatt/backends/gatttool/gatttool.py
 https://github.com/mqttblebulb/mqttblebulb/blob/main/mqttblebulb.py
 
-# char-write-cmd 0x0011 3301000000000000000000000000000000000032 # off
-# char-write-cmd 0x0011 3301010000000000000000000000000000000033 # on
+
+char-write-cmd 0x0011 3301000000000000000000000000000000000032 # off
+char-write-cmd 0x0011 3301010000000000000000000000000000000033 # on
